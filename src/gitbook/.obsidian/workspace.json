@@ -1,0 +1,289 @@
+{
+  "main": {
+    "id": "b46f09c447703f15",
+    "type": "split",
+    "children": [
+      {
+        "id": "5429c6451fed21cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43b176824546792d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux-Infrastructure-OS/Pacemaker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dec35a81f1e10c19",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "0886521eeb31bdc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ansible/Custom Modules/Custom Modules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b23dec95c68b4ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ansible/Custom Modules/Custom Modules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eef1ab1839e200e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux-Infrastructure-OS/Background Knowledge of OS's.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21f87cdd3d2ffee2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MySQL & SQL/Oracle SQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b8e43cb4a829807",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "20fa9a2ad5098cb1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b4d3147784b07b86",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "67927b23361cdb4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux-Infrastructure-OS/Architecture/Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "235f88c5749cc863",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Linux-Infrastructure-OS/Fundamentals of Computer Architecture2_v1.2.pdf"
+              }
+            }
+          },
+          {
+            "id": "655e4ce48abce917",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ansible/Copy Module.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37fc43e280419bac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ansible/Playbook Structure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc70f362c89381a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "8daafbf42505fa2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb307a25db77778e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3076a3d5346d7ff0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5ba73ae814b3eebd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 758.5
+  },
+  "right": {
+    "id": "cb704c646bf07ed9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c7ee0d2fd4dd5f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc362cbf5a2705c5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linux-Infrastructure-OS/Architecture/Architecture.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b9114bce007438ea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linux-Infrastructure-OS/Architecture/Architecture.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "248d52e2e0f073f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b563529104e4acd6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linux-Infrastructure-OS/Architecture/Architecture.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fb307a25db77778e",
+  "lastOpenFiles": [
+    "Ansible/Configuration Management.md",
+    "Ansible/Copy Module.md",
+    "Ansible/Create Directory.md",
+    "Ansible/Create file with content.md",
+    "Linux-Infrastructure-OS/Architecture/Architecture.md",
+    "Python/Python Cheatsheet.md",
+    "Linux-Infrastructure-OS/Architecture/Public & Private Cloud Integration.jpg",
+    "Linux-Infrastructure-OS/Architecture/SwapClear Software Deployment Cycle.jpg",
+    "Linux-Infrastructure-OS/Architecture/pcs-millenium.png",
+    "Linux-Infrastructure-OS/Architecture/ATLAS-DataDog.jpg"
+  ]
+}
